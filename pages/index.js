@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Há um amigo que se apega mais que gitum irmão. Obrigada por ser minha irmã de coração.
+    return <h1>Há um amigo que se apega mais que um irmão. Obrigada por ser minha irmã de coração.
 
     </h1>
 }
